@@ -1,0 +1,75 @@
+{
+	"index":{
+		"caidan":{
+			"code": 200,
+			"msg": "success",
+			"data":[
+				{
+					"uuid":"asdfawer",
+					"name":"首页",
+					"imgage":"http://bpic.588ku.com//back_origin_min_pic/19/09/23/090d9c8746b08a85861b9e5b3d5f4149.jpg!/fw/750/quality/99/unsharp/true/compress/true",
+					"showRotation":true,
+					"rotationList":[
+						{
+				          "dumpType": 0,
+				          "dumpValues": "string",
+				          "name": "string",
+				          "picture": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a38b1d56409913d5dc869023ade36d94.jpg?thumb=1&w=1226&h=460&f=webp&q=90"
+				        },
+				        {
+				          "dumpType": 1,
+				          "dumpValues": "string",
+				          "name": "小米商城1",
+				          "picture": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e5b37cdb85b3b93b5938cc508a10c906.jpg?thumb=1&w=1226&h=460&f=webp&q=90"
+				        }
+					],
+					"sonList":[
+						{
+							"uuid":"asdfawer",
+							"name":"子菜单首页1",
+							"imgage":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a4aa0cbfad7de34618c4bebdbdeee4e1.jpg?w=2452&h=920"
+						},
+						{
+							"uuid":"12314",
+							"name":"子菜单首页2",
+							"imgage":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/71c75e42e05b4e80fa34b17ea5d06786.jpg"
+						}
+					]
+				},
+				{
+					"uuid":"asdfawer123123",
+					"name":"大家都在用",
+					"imgage":"http://bpic.588ku.com//back_origin_min_pic/19/09/23/090d9c8746b08a85861b9e5b3d5f4149.jpg!/fw/750/quality/99/unsharp/true/compress/true",
+					"showRotation":true,
+					"rotationList":[
+						{
+				          "dumpType": 0,
+				          "dumpValues": "string",
+				          "name": "string",
+				          "picture": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/90585539f66ccd4356aeac6e7bbb5dad.jpg"
+				        },
+				        {
+				          "dumpType": 1,
+				          "dumpValues": "string",
+				          "name": "小米商城2",
+				          "picture": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8e0fb5540c32c703813e21894d104567.jpg?w=1212&h=716"
+				        }
+					],
+					"sonList":[
+						{
+							"uuid":"asdfawer123",
+							"name":"用1",
+							"imgage":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a4aa0cbfad7de34618c4bebdbdeee4e1.jpg?w=2452&h=920"
+						},
+						{
+							"uuid":"12314412",
+							"name":"用2",
+							"imgage":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/71c75e42e05b4e80fa34b17ea5d06786.jpg"
+						}
+					]
+				}
+			]
+		}
+
+	}
+}
